@@ -1,0 +1,13 @@
+https://twitter.com/particle1331/status/1541117927726149632
+https://twitter.com/particle1331/status/1542758716503891969
+https://twitter.com/particle1331/status/1542810802230800384
+https://twitter.com/particle1331/status/1542923749951180800
+https://twitter.com/particle1331/status/1542925150206967809
+https://www.linkedin.com/posts/ron-medina-5a411218a_streaming-an-ml-model-in-aws-with-kinesis-activity-6948754726305812480-bEak?utm_source=linkedin_share&utm_medium=member_desktop_web
+https://twitter.com/particle1331/status/1542987901860204544
+
+FAQ:
+KeyError ‘content-length’ when running prepare.py
+https://docs.google.com/document/d/12TlBfhIiKtyBv8RnsoJR6F72bkPDGEvPOItJIxaEzE0/edit#heading=h.qkw1xtuqtbwe
+
+Solutions:

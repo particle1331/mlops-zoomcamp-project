@@ -1,0 +1,18 @@
+https://www.linkedin.com/posts/ron-medina-5a411218a_currently-rank-2549-in-the-mlops-zoomcamp-activity-6945184651325923328-wFVV
+https://twitter.com/particle1331/status/1539347547097124864
+https://twitter.com/particle1331/status/1536997520253292544
+https://twitter.com/particle1331/status/1540326559156170752
+https://twitter.com/particle1331/status/1540538228436250625
+https://twitter.com/particle1331/status/1539348896362921984
+https://twitter.com/particle1331/status/1540596373770346496
+
+FAQ: Pipenv with Jupyter
+https://github.com/particle1331/mlops-zoomcamp/tree/main/04-deployment/homework
+
+
+16.19
+19M
+jupyter nbconvert starter.ipynb --to python
+sha256:08ef968f6b72033c16c479c966bf37ccd49b06ea91b765e1cc27afefe723920b
+16.29
+9.96
